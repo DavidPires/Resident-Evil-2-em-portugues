@@ -8,9 +8,26 @@
 ## Crédito:
 David Pires - tradução das strings
 
-## Observação:
-Interface completamente traduzida com a exceção dalguns ficheiros que se apanham dentro do jogo.
-Próximo patch, interface a 100%.
+## Observações:
+Interface completamente traduzida incluindo ficheiros no mundo do jogo, menus, tutoriais, dicas, etc.<p>
+Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
+
+## Patch v0.6
+- Traduzidos os ficheiros no mundo do jogo
+- Pequenas correções:
+<ul><ul>
+  <li>Corrigidos alguns erros ortográficos</li>
+  <li>U.S.S. -> sigla feminina e não masculina</li>
+  <li>Rouparia -> Lavandaria</li>
+  <li>Chave sobresselente -> Tecla sobresselente</li>
+</ul></ul>
+
+- Pequena melhoria na apresentação:
+<ul><ul>
+  <li>Adquiriste *Nome do item* -> Adquiriste: *Nome do item*</li>
+</ul></ul>
 
 ## Patch v0.4
-- Lançamento inicial
+<ul>
+  <li>Lançamento inicial</li>
+</ul>
