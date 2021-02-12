@@ -1,4 +1,4 @@
-# Resident Evil 2 - Tradução em Português
+# Resident Evil 2 - Tradução em português
 
 ## Instalação:
 1. Transferir o ficheiro re_chunk_000.pak.patch_006.pak, presente neste repositório
@@ -22,8 +22,9 @@ Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
   <li>Chave sobresselente -> Tecla sobresselente</li>
 </ul></ul>
 
-- Pequena melhoria na apresentação:
+- Pequenas melhorias na apresentação:
 <ul><ul>
+  <li>All rights reserved -> Todos os direitos reservados
   <li>Adquiriste <em>Nome do item</em> -> Adquiriste: <em>Nome do item</em></li>
 </ul></ul>
 
