@@ -3,7 +3,7 @@
 ## Instalação:
 1. Transferir o ficheiro re_chunk_000.pak.patch_006.pak, presente neste repositório
 2. Instalar na raiz do diretório do jogo (geralmente em C:\Programas (x86)\Steam\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2)
-3. Ir ao menu de idioma dentro do jogo e mudar para português (não é necessário caso o jogo já estar em inglês)
+3. Ir ao menu de idioma dentro do jogo e mudar para português (não é necessário caso o jogo já estar na opção inglês)
 
 ## Crédito:
 David Pires - tradução das strings
