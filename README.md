@@ -24,7 +24,7 @@ Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
 
 - Pequena melhoria na apresentação:
 <ul><ul>
-  <li>Adquiriste *Nome do item* -> Adquiriste: *Nome do item*</li>
+  <li>Adquiriste <em>Nome do item</em> -> Adquiriste: <em>Nome do item</em></li>
 </ul></ul>
 
 ## Patch v0.4
