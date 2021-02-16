@@ -12,6 +12,9 @@ David Pires - tradução das strings
 Interface completamente traduzida incluindo ficheiros no mundo do jogo, menus, tutoriais, dicas, etc.<p>
 Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
 
+## Patch v0.67
+- Traduzidos apenas os diálogos que aparecem durante a jogabilidade
+
 ## Patch v0.6
 - Traduzidos os ficheiros no mundo do jogo
 - Pequenas correções:
