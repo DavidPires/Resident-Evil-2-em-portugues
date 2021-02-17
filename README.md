@@ -13,7 +13,7 @@ Interface completamente traduzida incluindo ficheiros no mundo do jogo, menus, t
 Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
 
 ## Patch v0.7
-- Traduzidos apenas os diálogos que aparecem durante a jogabilidade (não inclui filmes)
+- Traduzidas apenas as falas que aparecem durante a jogabilidade (não inclui filmes)
 
 ## Patch v0.6
 - Traduzidos os ficheiros no mundo do jogo
