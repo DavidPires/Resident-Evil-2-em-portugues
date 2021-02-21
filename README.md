@@ -22,7 +22,7 @@ Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
 
 - Pequenas melhorias na apresentação:
 <ul><ul>
-  <li>Pequenas alterações nos ficheiros do mundo 04, 36, 37, 62 e 81.</li>
+  <li>Pequenas alterações nos ficheiros 04, 36, 37, 62 e 81, pertencentes ao mundo do jogo.</li>
 </ul></ul>
 
 ## Patch v0.7
