@@ -17,12 +17,12 @@ Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
 - Pequenas correções:
 <ul><ul>
   <li>Substituída a travessão '—' por reticências '...' nalguns ficheiros do mundo e nas falas pertencentes à jogabilidade.</li>
-  <li>Traduzidas as restantes linhas em falta (ficheiros 4th, chp2_1 e chp4).</li>
+  <li>Traduzidas as restantes linhas em falta nos ficheiros 4th, chp2_1 e chp4.</li>
 </ul></ul>
 
 - Pequenas melhorias na apresentação:
 <ul><ul>
-  <li>Pequenas alterações nos ficheiros 04, 36, 37, 62 e 81.</li>
+  <li>Pequenas alterações nos ficheiros do mundo 04, 36, 37, 62 e 81.</li>
 </ul></ul>
 
 ## Patch v0.7
