@@ -12,6 +12,17 @@ David Pires - tradução das strings
 Interface completamente traduzida incluindo ficheiros no mundo do jogo, menus, tutoriais, dicas, etc.<p>
 Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
 
+## Patch v0.8
+- Traduzidas as falas incluídas em filmes considerados eventos menores.
+- Pequenas correções:
+<ul><ul>
+  <li>Substituída a travessão (—) por reticências (...) nalguns ficheiros do mundo e nas falas de jogabilidade.</li>
+  <li>Traduzidas as restantes linhas em falta (ficheiros 4th, chp2_1 e chp4).</li>
+</ul></ul>
+
+- Pequenas melhorias na apresentação:
+  <li>Pequenas alterações nos ficheiros 04, 36, 37, 62 e 81.
+
 ## Patch v0.7
 - Traduzidas apenas as falas que aparecem durante a jogabilidade (não inclui filmes)
 
