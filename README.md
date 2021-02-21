@@ -16,7 +16,7 @@ Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
 - Traduzidas as falas incluídas em filmes considerados eventos menores.
 - Pequenas correções:
 <ul><ul>
-  <li>Substituída a travessão (—) por reticências (...) nalguns ficheiros do mundo e nas falas de jogabilidade.</li>
+  <li>Substituída a travessão '—' por reticências '...' nalguns ficheiros do mundo e nas falas de jogabilidade.</li>
   <li>Traduzidas as restantes linhas em falta (ficheiros 4th, chp2_1 e chp4).</li>
 </ul></ul>
 
