@@ -21,7 +21,9 @@ Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
 </ul></ul>
 
 - Pequenas melhorias na apresentação:
+<ul><ul>
   <li>Pequenas alterações nos ficheiros 04, 36, 37, 62 e 81.</li>
+</ul></ul>
 
 ## Patch v0.7
 - Traduzidas apenas as falas que aparecem durante a jogabilidade (não inclui filmes)
