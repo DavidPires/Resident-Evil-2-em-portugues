@@ -22,7 +22,7 @@ Se eventualmente lançar outro patch será para acrescentar um ponto final ou um
 
 - Pequenas melhorias na apresentação:
 <ul><ul>
-  <li>Alterações nos ficheiros de eventos menores 001, 005, 092, 094, 190, 360, 560, 632, 650, 695, 705, 707, 708, 720, 770, 790 e 850.</li>
+  <li>Alterações nos ficheiros de eventos menores: 001, 005, 092, 094, 190, 360, 560, 632, 650, 695, 705, 707, 708, 720, 770, 790 e 850.</li>
 </ul></ul>
 
 ## Patch v0.8
