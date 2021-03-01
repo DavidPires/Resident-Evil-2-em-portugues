@@ -9,8 +9,16 @@
 David Pires - tradução das strings
 
 ## Observações:
-Interface completamente traduzida incluindo ficheiros no mundo do jogo, menus, tutoriais, dicas, etc.<p>
-Próximo objetivo, legendas a 100% e efetivamente, uma tradução completa.
+Tradução 100% concluída.
+Se eventualmente lançar outro patch será para acrescentar um ponto final ou uma palavra que se encaixa melhor à situação.
+
+## Patch v1.0
+- Traduzidos os filmes em falta.
+
+- Pequenas melhorias na apresentação:
+<ul><ul>
+  <li>Alterações nos ficheiros de eventos menores 001, 005, 092, 094, 190, 360, 560, 632, 650, 695, 705, 707, 708, 720, 770, 790 e 850.</li>
+</ul></ul>
 
 ## Patch v0.8
 - Traduzidas as falas incluídas em filmes considerados eventos menores.
