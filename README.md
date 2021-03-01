@@ -10,7 +10,7 @@ David Pires - tradução das strings
 
 ## Observações:
 Tradução 100% concluída.<br/>
-Se eventualmente lançar outro patch será para acrescentar um ponto final ou uma palavra que se encaixa melhor à situação.
+Se eventualmente lançar outro patch será para acrescentar um ponto final ou algo do género.
 
 ## Patch v1.0
 - Traduzidos os filmes em falta.
