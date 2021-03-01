@@ -9,11 +9,16 @@
 David Pires - tradução das strings
 
 ## Observações:
-Tradução 100% concluída.
+Tradução 100% concluída.<br/>
 Se eventualmente lançar outro patch será para acrescentar um ponto final ou uma palavra que se encaixa melhor à situação.
 
 ## Patch v1.0
 - Traduzidos os filmes em falta.
+
+- Pequena correção:
+<ul><ul>
+  <li>Alfa -> Alpha</li>
+</ul></ul>
 
 - Pequenas melhorias na apresentação:
 <ul><ul>
