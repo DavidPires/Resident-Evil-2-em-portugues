@@ -15,9 +15,10 @@ Se eventualmente lançar outro patch será para acrescentar um ponto final ou al
 ## Patch v1.0
 - Traduzidos os filmes de eventos importantes.
 
-- Pequena correção:
+- Pequenas correções:
 <ul><ul>
   <li>Alfa -> Alpha</li>
+  <li>Ficha da dama -> Ficha da rainha</li>
 </ul></ul>
 
 - Pequenas melhorias na apresentação:
