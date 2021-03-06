@@ -9,13 +9,14 @@
 David Pires - tradução das strings
 
 ## Observações:
-Tradução 100% concluída.(Patch v1.0)<br/>
+Tradução 100% concluída. (Patch v1.0)<br/>
 Se eventualmente lançar outro patch será para acrescentar um ponto final que me esqueci ou para melhorar a apresentação.
 
 ## Patch v1.1
 - Melhorias na apresentação:
 <ul><ul>
-  <li>Ficheiros afetados: sys_4th, sys_rogue, sys_bonus, sys_common, sys_hard,, sys_inventory, sys_mainmenu, sys_option, sys_pause, sys_pc, sys_reward, sys_saveload e sys_tips.
+  <li>Ficheiros afetados: sys_4th, sys_rogue, sys_bonus, sys_common, sys_hard,, sys_inventory, sys_mainmenu, sys_option, sys_pause, sys_pc, sys_reward, sys_saveload e sys_tips.</li>
+</ul></ul>
 
 ## Patch v1.0
 - Traduzidos os filmes de eventos importantes.
