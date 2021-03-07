@@ -9,8 +9,13 @@
 David Pires - tradução das strings
 
 ## Observações:
-Tradução 100% concluída. (Patch v1.0)<br/>
-Se eventualmente lançar outro patch será para acrescentar um ponto final que me esqueci ou para melhorar a apresentação.
+Tradução 100% concluída.
+
+## Patch v1.2
+- Melhorias na apresentação das legendas e ficheiros:
+<ul><ul>
+  <li>Ficheiros afetados: item_detail, file_14, file_25, file_36, file_41, file_42, file_46, conv_chp5, cf_093, cf_094, cf_120, cf_190, cf_340, cf_650, cf_695, cf_705, cf_860, ev_400 e ev_730.</li>
+</ul></ul>
 
 ## Patch v1.1
 - Melhorias na apresentação da interface:
